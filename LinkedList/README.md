@@ -4,6 +4,11 @@
 
 ![image](https://github.com/user-attachments/assets/d6f3f307-18bb-4d43-9d37-2ca5b8600a8b)
 
+## Doubly Linked List
+
+![image](https://github.com/user-attachments/assets/f65bd661-64ba-450a-8def-d7a2c3a129cc)
+
+
 The image seems self-explanatory, buuuuuuut... It is even more than that!
 
 Linked lists could be an alternative to arrays, but why exactly it would be better than it?
